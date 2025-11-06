@@ -1,0 +1,9 @@
+pandas
+jupyter
+scikit-learn
+matplotlib
+numpy
+seaborn
+yfinance
+datetime
+warnings
